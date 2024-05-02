@@ -1,0 +1,660 @@
+{
+  "Q1": [
+    {
+      "Question Number ": "1",
+      "Question": "How many hours are there in a day?",
+      "Option A": "12",
+      "Option B": "18",
+      "Option C": "36",
+      "Option D": "24",
+      "Correct Answer": "24"
+    },
+    {
+      "Question Number ": "1",
+      "Question": "Which of the following animals is not found in the sea?",
+      "Option A": "Whale",
+      "Option B": "Shark",
+      "Option C": "Dog",
+      "Option D": "Giraffe",
+      "Correct Answer": "Dog"
+    },
+    {
+      "Question Number ": "1",
+      "Question": "Cold brew, latte, espresso are all examples of which beverage?",
+      "Option A": "Tea",
+      "Option B": "Coffee",
+      "Option C": "Fruit Juice",
+      "Option D": "Smoothie",
+      "Correct Answer": "Coffee"
+    },
+    {
+      "Question Number ": "1",
+      "Question": "How many cents do 10 dollars make?",
+      "Option A": "1000",
+      "Option B": "100",
+      "Option C": "10000",
+      "Option D": "10",
+      "Correct Answer": "1000"
+    },
+    {
+      "Question Number ": "1",
+      "Question": "A VIP is a known as a \"very what person\"?",
+      "Option A": "Intelligent",
+      "Option B": "Insecure",
+      "Option C": "Important",
+      "Option D": "Ideal",
+      "Correct Answer": "Important"
+    }
+  ],
+  "Q2": [
+    {
+      "Question Number ": "2",
+      "Question": "In the world of video games, who has a brother called Luigi?",
+      "Option A": "Wario",
+      "Option B": "Mario",
+      "Option C": "Yoshi",
+      "Option D": "Toad",
+      "Correct Answer": "Mario"
+    },
+    {
+      "Question Number ": "2",
+      "Question": "A London Landmark is known as what Ben?",
+      "Option A": "Small",
+      "Option B": "Large",
+      "Option C": "Big",
+      "Option D": "Medium",
+      "Correct Answer": "Big"
+    },
+    {
+      "Question Number ": "2",
+      "Question": "A magnet would most likely attract which of the following?",
+      "Option A": "Metal",
+      "Option B": "Plastic",
+      "Option C": "Wood",
+      "Option D": "Glass",
+      "Correct Answer": "Metal"
+    },
+    {
+      "Question Number ": "2",
+      "Question": "The popular children's song \"It's Raining, It's Pouring\" mentions an \"old man\" doing what?",
+      "Option A": "Cooking",
+      "Option B": "Sleeping",
+      "Option C": "Walking",
+      "Option D": "Snoring",
+      "Correct Answer": "Snoring"
+    },
+    {
+      "Question Number ": "2",
+      "Question": "Which city is home to the Colosseum?",
+      "Option A": "Barcelona",
+      "Option B": "Madrid",
+      "Option C": "Rome",
+      "Option D": "Prague",
+      "Correct Answer": "Rome"
+    }
+  ],
+  "Q3": [
+    {
+      "Question Number ": "3",
+      "Question": "How many wickets need to fall to dismiss a whole cricket team?",
+      "Option A": "9",
+      "Option B": "11",
+      "Option C": "1",
+      "Option D": "10",
+      "Correct Answer": "10"
+    },
+    {
+      "Question Number ": "3",
+      "Question": "What makeup product makes eyelashes appear longer?",
+      "Option A": "Blush",
+      "Option B": "Lipstick",
+      "Option C": "Mascara",
+      "Option D": "Foundation",
+      "Correct Answer": "Mascara"
+    },
+    {
+      "Question Number ": "3",
+      "Question": "According to the old saying, \"love of\" what \"is the root of all evil\"?",
+      "Option A": "Power",
+      "Option B": "Food",
+      "Option C": "Money",
+      "Option D": "Human",
+      "Correct Answer": "Money"
+    },
+    {
+      "Question Number ": "3",
+      "Question": "Which animal is not a type of primate?",
+      "Option A": "Gorrila",
+      "Option B": "Lemur",
+      "Option C": "Orangutan",
+      "Option D": "Sloth",
+      "Correct Answer": "Sloth"
+    },
+    {
+      "Question Number ": "3",
+      "Question": "Which of the following is not a type of Pasta?",
+      "Option A": "Fusili",
+      "Option B": "Pesto",
+      "Option C": "Penne",
+      "Option D": "Fettuccine",
+      "Correct Answer": "Pesto"
+    }
+  ],
+  "Q4": [
+    {
+      "Question Number ": "4",
+      "Question": "What kind of edge denotes the forefront of innovation?",
+      "Option A": "Sharp",
+      "Option B": "Breaking",
+      "Option C": "Cutting",
+      "Option D": "Splitting",
+      "Correct Answer": "Cutting"
+    },
+    {
+      "Question Number ": "4",
+      "Question": "When inhaled, which of the following gases makes voices sound higher?",
+      "Option A": "Helium",
+      "Option B": "Nitrogen",
+      "Option C": "Argon",
+      "Option D": "Sulfur Hexafluoride",
+      "Correct Answer": "Helium"
+    },
+    {
+      "Question Number ": "4",
+      "Question": "Which instrument does not have strings?",
+      "Option A": "Bass",
+      "Option B": "Trombone",
+      "Option C": "Guitar",
+      "Option D": "Cello",
+      "Correct Answer": "Trombone"
+    },
+    {
+      "Question Number ": "4",
+      "Question": "What is the first name of McDonald's mascot?",
+      "Option A": "Donald",
+      "Option B": "George",
+      "Option C": "Ronald",
+      "Option D": "Jim",
+      "Correct Answer": "Ronald"
+    },
+    {
+      "Question Number ": "4",
+      "Question": "In terms of computing technology, what does the term GPU stand for?",
+      "Option A": "Graphics powering unit",
+      "Option B": "Graph preparing unit",
+      "Option C": "Graphics performing unit",
+      "Option D": "Graphics processing unit",
+      "Correct Answer": "Graphics processing unit"
+    }
+  ],
+  "Q5": [
+    {
+      "Question Number ": "5",
+      "Question": "Which of the following are the reason a blood cell is coloured red?",
+      "Option A": "Hemoglobin",
+      "Option B": "Platelets",
+      "Option C": "Oxygen",
+      "Option D": "Insulin",
+      "Correct Answer": "Hemoglobin"
+    },
+    {
+      "Question Number ": "5",
+      "Question": "The Olympic Games have been hosted by which of the following countries the most?",
+      "Option A": "France",
+      "Option B": "Canada",
+      "Option C": "Japan",
+      "Option D": "United States",
+      "Correct Answer": "United States"
+    },
+    {
+      "Question Number ": "5",
+      "Question": "Which of the following provides protection for the teeth?",
+      "Option A": "Gums",
+      "Option B": "Crown",
+      "Option C": "Enamel",
+      "Option D": "Incisor",
+      "Correct Answer": "Enamel"
+    },
+    {
+      "Question Number ": "5",
+      "Question": "Equations that include sine, cosine, and tangent correspond to which branch of mathematics?",
+      "Option A": "Number theory",
+      "Option B": "Algebra",
+      "Option C": "Calculus",
+      "Option D": "Trignometry",
+      "Correct Answer": "Trignometry"
+    },
+    {
+      "Question Number ": "5",
+      "Question": "Which car company makes the Cayenne, Macan and Panamera?",
+      "Option A": "Jaguar",
+      "Option B": "Lexus",
+      "Option C": "Porsche",
+      "Option D": "Audi",
+      "Correct Answer": "Porsche"
+    }
+  ],
+  "Q6": [
+    {
+      "Question Number ": "6",
+      "Question": "In which of the following countries was ice cream invented?",
+      "Option A": "United States",
+      "Option B": "China",
+      "Option C": "Switzerland",
+      "Option D": "England",
+      "Correct Answer": "China"
+    },
+    {
+      "Question Number ": "6",
+      "Question": "Someone, who collects coins is called what?",
+      "Option A": "Collector",
+      "Option B": "Accumulator",
+      "Option C": "Philatelist",
+      "Option D": "Numismatist",
+      "Correct Answer": "Numismatist"
+    },
+    {
+      "Question Number ": "6",
+      "Question": "The Hunger Games was written by which author?",
+      "Option A": "Suzanne Collins",
+      "Option B": "JK Rowling",
+      "Option C": "Hannah Rothschild",
+      "Option D": "Zadie Smith",
+      "Correct Answer": "Suzanne Collins"
+    },
+    {
+      "Question Number ": "6",
+      "Question": "How many elements are there in the periodic table?",
+      "Option A": "111",
+      "Option B": "97",
+      "Option C": "118",
+      "Option D": "143",
+      "Correct Answer": "118"
+    },
+    {
+      "Question Number ": "6",
+      "Question": "What international retail chain got its start in Älmhult, Sweden, and runs a museum dedicated to its history there?",
+      "Option A": "Tesco",
+      "Option B": "IKEA",
+      "Option C": "Costco",
+      "Option D": "Uniqlo",
+      "Correct Answer": "IKEA"
+    }
+  ],
+  "Q7": [
+    {
+      "Question Number ": "7",
+      "Question": "Which of these games includes the phrase “Do not pass go, do not collect $200”?",
+      "Option A": "Scrabble",
+      "Option B": "Jenga",
+      "Option C": "The Game of Life",
+      "Option D": "Monopoly",
+      "Correct Answer": "Monopoly"
+    },
+    {
+      "Question Number ": "7",
+      "Question": "How many hearts does an octopus have?",
+      "Option A": "2",
+      "Option B": "5",
+      "Option C": "3",
+      "Option D": "1",
+      "Correct Answer": "3"
+    },
+    {
+      "Question Number ": "7",
+      "Question": "The triangular shape of which chocolate bar is intended to suggest the peaks of Swiss mountains?",
+      "Option A": "Twix ",
+      "Option B": "Kit Kat",
+      "Option C": "Toblerone",
+      "Option D": "Skor",
+      "Correct Answer": "Toblerone"
+    },
+    {
+      "Question Number ": "7",
+      "Question": "Dump, floater, and wipe are terms used in which sport?",
+      "Option A": "Water Polo",
+      "Option B": "Volleyball",
+      "Option C": "Curling",
+      "Option D": "Tennis",
+      "Correct Answer": "Volleyball"
+    },
+    {
+      "Question Number ": "7",
+      "Question": "What is the largest organ in the body?",
+      "Option A": "Heart",
+      "Option B": "Liver",
+      "Option C": "Stomach",
+      "Option D": "Skin",
+      "Correct Answer": "Skin"
+    }
+  ],
+  "Q8": [
+    {
+      "Question Number ": "8",
+      "Question": "Who designed the Sydney Opera House?",
+      "Option A": "Louis Kahn",
+      "Option B": "Jorn Utzon",
+      "Option C": "Walter Gropius",
+      "Option D": "Richard Neutra",
+      "Correct Answer": "Jorn Utzon"
+    },
+    {
+      "Question Number ": "8",
+      "Question": "In which Shakespeare play is jealousy called \"the green-eyed monster\"?",
+      "Option A": "Hamlet",
+      "Option B": "Macbeth",
+      "Option C": "Othello",
+      "Option D": "The Tempest",
+      "Correct Answer": "Othello"
+    },
+    {
+      "Question Number ": "8",
+      "Question": "The founders of YouTube worked for which company before starting up YouTube?",
+      "Option A": "IBM",
+      "Option B": "PayPal",
+      "Option C": "Microsoft",
+      "Option D": "Google",
+      "Correct Answer": "PayPal"
+    },
+    {
+      "Question Number ": "8",
+      "Question": "By a measure of landmass, which of the following is the smallest country in the world?",
+      "Option A": "Nauru",
+      "Option B": "Monaco",
+      "Option C": "Malta",
+      "Option D": "Vatican City",
+      "Correct Answer": "Vatican City"
+    },
+    {
+      "Question Number ": "8",
+      "Question": "Which of the following musicians was not a member of the Beatles?",
+      "Option A": "John Lennon",
+      "Option B": "Ringo Star",
+      "Option C": "Paul McCartney",
+      "Option D": "Mick Jagger",
+      "Correct Answer": "Mick Jagger"
+    }
+  ],
+  "Q9": [
+    {
+      "Question Number ": "9",
+      "Question": "What lies at the centre of a heliocentric model of the solar system?",
+      "Option A": "Sun",
+      "Option B": "Moon",
+      "Option C": "Earth",
+      "Option D": "Mars",
+      "Correct Answer": "Sun"
+    },
+    {
+      "Question Number ": "9",
+      "Question": "Which character is voiced by Brad Pitt in the 2010 comedy animated film Megamind?",
+      "Option A": "Hal Stewart",
+      "Option B": "Metro man",
+      "Option C": "Megamind",
+      "Option D": "Minion",
+      "Correct Answer": "Metro man"
+    },
+    {
+      "Question Number ": "9",
+      "Question": "Which Israeli coastal city shares its name with a type of biscuit?",
+      "Option A": "Gaza",
+      "Option B": "Haifa",
+      "Option C": "Ashdod",
+      "Option D": "Jaffa",
+      "Correct Answer": "Jaffa"
+    },
+    {
+      "Question Number ": "9",
+      "Question": "Which of the following men does not have a chemical element named after him?",
+      "Option A": "Niels Bohr",
+      "Option B": "Isaac Newton",
+      "Option C": "Enrico Fermi",
+      "Option D": "Albert Einstein",
+      "Correct Answer": "Isaac Newton"
+    },
+    {
+      "Question Number ": "9",
+      "Question": "The national flag of which of these countries does not feature three horizontal stripes?",
+      "Option A": "Russia",
+      "Option B": "Germany",
+      "Option C": "Hungary",
+      "Option D": "Romania",
+      "Correct Answer": "Romania"
+    }
+  ],
+  "Q10": [
+    {
+      "Question Number ": "10",
+      "Question": "Which fast food restaurant chain piloted a chicken-flavoured nail polish?",
+      "Option A": "Popeyes",
+      "Option B": "KFC",
+      "Option C": "Mary Brown's",
+      "Option D": "Chick-Fil-A",
+      "Correct Answer": "KFC"
+    },
+    {
+      "Question Number ": "10",
+      "Question": "Who was the first woman to fly solo across the Atlantic?",
+      "Option A": "Sally Ride",
+      "Option B": "Amy Johnson",
+      "Option C": "Elinor Smith",
+      "Option D": "Amelia Earhart",
+      "Correct Answer": "Amelia Earhart"
+    },
+    {
+      "Question Number ": "10",
+      "Question": "In the children's book series, where is Paddington Bear originally from?",
+      "Option A": "Latvia",
+      "Option B": "Peru",
+      "Option C": "Colombia",
+      "Option D": "India",
+      "Correct Answer": "Peru"
+    },
+    {
+      "Question Number ": "10",
+      "Question": "Each read and outlined in white, there are how many stars on the New Zealand Flag?",
+      "Option A": "One",
+      "Option B": "Four",
+      "Option C": "Six",
+      "Option D": "Three",
+      "Correct Answer": "Four"
+    },
+    {
+      "Question Number ": "10",
+      "Question": "Eglantine is a species of which plant?",
+      "Option A": "Ivy",
+      "Option B": "Hollyhock",
+      "Option C": "Iris",
+      "Option D": "Rose",
+      "Correct Answer": "Rose"
+    }
+  ],
+  "Q11": [
+    {
+      "Question Number ": "11",
+      "Question": "On which day of the week did Apple CEO Steve Jobs unveil the first iPhone?",
+      "Option A": "Monday",
+      "Option B": "Tuesday",
+      "Option C": "Thursday",
+      "Option D": "Friday",
+      "Correct Answer": "Friday"
+    },
+    {
+      "Question Number ": "11",
+      "Question": "Three Hollywood actors who have starred as Magneto, Iron Man and Doctor Strange have all played what other character?",
+      "Option A": "Captain Kirk",
+      "Option B": "James Bond",
+      "Option C": "Sherlock Holmes",
+      "Option D": "Harry Potter",
+      "Correct Answer": "Sherlock Holmes"
+    },
+    {
+      "Question Number ": "11",
+      "Question": "What is the title of the twelfth film in the James Bond series?",
+      "Option A": "For Your Eyes Only",
+      "Option B": "Moonraker",
+      "Option C": "A View To Kill",
+      "Option D": "The Spy Who Loved Me",
+      "Correct Answer": "For Your Eyes Only"
+    },
+    {
+      "Question Number ": "11",
+      "Question": "What scientist first determined that human sight results from images projected onto the retina?",
+      "Option A": "Copernicus",
+      "Option B": "Galileo",
+      "Option C": "Aristotle",
+      "Option D": "Johannes Kepler",
+      "Correct Answer": "Johannes Kepler"
+    },
+    {
+      "Question Number ": "11",
+      "Question": "The world's tallest building Burj Khalifa, consists of how many floors?",
+      "Option A": "141",
+      "Option B": "163",
+      "Option C": "157",
+      "Option D": "179",
+      "Correct Answer": "163"
+    }
+  ],
+  "Q12": [
+    {
+      "Question Number ": "12",
+      "Question": "What was the first handheld game console to ship with a colour display?",
+      "Option A": "Sega Game Gear",
+      "Option B": "Gameboy Color",
+      "Option C": "Atari Lynx",
+      "Option D": "Neo Geo Pocket Color",
+      "Correct Answer": "Atari Lynx"
+    },
+    {
+      "Question Number ": "12",
+      "Question": "Until now, which country has been the only FIFA World Cup host not to make it out of the group stage?",
+      "Option A": "United States",
+      "Option B": "Russia",
+      "Option C": "Japan",
+      "Option D": "South Africa",
+      "Correct Answer": "South Africa"
+    },
+    {
+      "Question Number ": "12",
+      "Question": "After which Greek goddess is the US space program to land the first woman and the next man on the moon by 2024 named?",
+      "Option A": "Rhea",
+      "Option B": "Aphrodite",
+      "Option C": "Artemis",
+      "Option D": "Nemesis",
+      "Correct Answer": "Artemis"
+    },
+    {
+      "Question Number ": "12",
+      "Question": "Which Scottish poet's works inspired the book titles \"Of Mice and Men\" and \"Catcher in the Rye\"?",
+      "Option A": "James Hogg",
+      "Option B": "Robert Burns",
+      "Option C": "Robert Louis Stevenson",
+      "Option D": "Walter Alva Scott",
+      "Correct Answer": "Robert Burns"
+    },
+    {
+      "Question Number ": "12",
+      "Question": "Relative to the others, which planet spins backward?",
+      "Option A": "Saturn",
+      "Option B": "Mercury",
+      "Option C": "Venus",
+      "Option D": "Neptune",
+      "Correct Answer": "Venus"
+    }
+  ],
+  "Q13": [
+    {
+      "Question Number ": "13",
+      "Question": "What Indian mausoleum was called a \"teardrop… on the cheek of time\" by Nobel Prize in Literature laureate Rabindranath Tagore?",
+      "Option A": "Tomb of Jahangir",
+      "Option B": "Qutub Minar",
+      "Option C": "The Taj Mahal",
+      "Option D": "Tomb of Cyrus",
+      "Correct Answer": "The Taj Mahal"
+    },
+    {
+      "Question Number ": "13",
+      "Question": "Which Icelandic geothermal site has the same name as a 1980 movie?",
+      "Option A": "The Shining",
+      "Option B": "Xanadu",
+      "Option C": "The Blue Lagoon",
+      "Option D": "Heaven's Gate",
+      "Correct Answer": "The Blue Lagoon"
+    },
+    {
+      "Question Number ": "13",
+      "Question": "Which Roman emperor preceded Nero?",
+      "Option A": "Titus",
+      "Option B": "Claudius",
+      "Option C": "Tiberius",
+      "Option D": "Augustus",
+      "Correct Answer": "Claudius"
+    },
+    {
+      "Question Number ": "13",
+      "Question": "Wood hyacinth is another name for which flower?",
+      "Option A": "Speedwell",
+      "Option B": "Cyclamen",
+      "Option C": "Primrose",
+      "Option D": "Bluebell",
+      "Correct Answer": "Bluebell"
+    },
+    {
+      "Question Number ": "13",
+      "Question": "The Earth is approximately how many miles away from the Sun?",
+      "Option A": "39 million",
+      "Option B": "193 million",
+      "Option C": "93 million",
+      "Option D": "9.3 million",
+      "Correct Answer": "93 million"
+    }
+  ],
+  "Q14": [
+    {
+      "Question Number ": "14",
+      "Question": "Which king was married to Eleanor of Aquitaine?",
+      "Option A": "Richard I",
+      "Option B": "Henry II",
+      "Option C": "Henry V",
+      "Option D": "Henry I",
+      "Correct Answer": "Henry II"
+    },
+    {
+      "Question Number ": "14",
+      "Question": "Which of the following landlocked countries is entirely contained within another country?",
+      "Option A": "Burkina Faso",
+      "Option B": "Mongolia",
+      "Option C": "Lesotho",
+      "Option D": "Luxembourg",
+      "Correct Answer": "Burkina Faso"
+    },
+    {
+      "Question Number ": "14",
+      "Question": "\"Nephelococcygia\" is the practice of doing what?",
+      "Option A": "Breaking glass with your voice",
+      "Option B": "Sleeping with your eyes open",
+      "Option C": "Sleeping in freezing water",
+      "Option D": "Finding shapes in clouds",
+      "Correct Answer": "Finding shapes in clouds"
+    },
+    {
+      "Question Number ": "14",
+      "Question": "Which scientific unit is named after an Italian nobleman?",
+      "Option A": "Ohm",
+      "Option B": "Volt",
+      "Option C": "Pascal",
+      "Option D": "Hertz",
+      "Correct Answer": "Volt"
+    },
+    {
+      "Question Number ": "14",
+      "Question": "If you planted the seeds of \"Quercus robur,\" what would grow?",
+      "Option A": "Trees",
+      "Option B": "Grain",
+      "Option C": "Flowers",
+      "Option D": "Vegetables",
+      "Correct Answer": "Trees"
+    }
+  ]
+}
