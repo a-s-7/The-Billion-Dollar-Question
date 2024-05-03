@@ -1,9 +1,5 @@
-
-# My Personal Project Proposal
-
 ## *The Billion-Dollar Question*
 
-The project I propose to design this term is a gaming application called "The Billion-Dollar Question." 
 The Billion-Dollar question is a knowledge-based game that allows players to test their knowledge by asking them a 
 series of questions, giving them a chance to win a fictional cash prize. The game consists of **14 multiple-choice 
 questions** that originate from various domains in general knowledge, such as sports, world politics, geography, 
